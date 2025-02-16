@@ -21,7 +21,7 @@ The dataset consists of multiple tables:
 - Traffic: Traffic-related data
 - Truck Schedule: Truck scheduling and timing details
 
-Check out data [here]()
+Check out data [here](https://github.com/Choiceugwuede/Truck-Delay-Data-Procesing/tree/main/Training_data)
 
 ## 🛠 Tech Stack
 
