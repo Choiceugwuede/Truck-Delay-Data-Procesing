@@ -49,7 +49,7 @@ Check out data [here]()
 -  Created derived features for deeper analysis
 - Created a final dataset for modelling and further analysis.
 
-Check out step by step processes [here]()
+Check out step by step processes [here](https://github.com/Choiceugwuede/Truck-Delay-Data-Procesing/blob/main/truck-delay-classification%20.ipynb)
 
 
 
